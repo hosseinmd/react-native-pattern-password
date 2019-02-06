@@ -1,0 +1,26 @@
+{
+  "name": "react-native-pattern-password",
+  "version": "1.0.0",
+  "description": "A pattern password component for React Native. It supports both iOS and Android since it's' written in pure JavaScript.",
+  "main": "source/gesturePassword/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosseinmd/react-native-pattern-password.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "pattern",
+    "password",
+    "pattern password",
+    "gesture password"
+  ],
+  "author": "hossein Mohammadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosseinmd/react-native-pattern-password/issues"
+  },
+  "homepage": "https://github.com/hosseinmd/react-native-pattern-password#readme"
+}
