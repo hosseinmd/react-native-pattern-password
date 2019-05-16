@@ -1,6 +1,6 @@
 {
   "name": "react-native-pattern-password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pattern password component for React Native. It supports both iOS and Android since it's' written in pure JavaScript.",
   "main": "source/gesturePassword/index.js",
   "repository": {
