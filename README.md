@@ -3,7 +3,7 @@
 A pattern password component for React Native. It supports both iOS and Android since it's written in pure JavaScript.
 
 
-![image](https://github.com/Spikef/react-native-pattern-password/raw/master/screenshot.gif)
+![image](https://github.com/hosseinmd/react-native-pattern-password/raw/master/screenshot.gif)
 
 ## Install
 
@@ -176,4 +176,4 @@ AppRegistry.registerComponent('AppDemo', () => AppDemo);
 
 ```
 
-If you have suggestions or bug reports, feel free to send pull request or [create new issue](https://github.com/spikef/react-native-pattern-password/issues/new).
+If you have suggestions or bug reports, feel free to send pull request or [create new issue](https://github.com/hosseinmd/react-native-pattern-password/issues/new).
